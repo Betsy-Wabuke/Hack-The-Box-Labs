@@ -20,13 +20,6 @@ The repository is organized into intuitive categories, each with a specific focu
 - [Academy](./Academy/Intro/walkthrough.md)
 - [Challenges](./Challenges/Pwn/walkthrough.md)
 
-## How to Use
-
-- Clone the Repository:git clone https://github.com/yourusername/cybersecurity-labs.git
-- Navigate to folders like 🖥️ Machines/Retired/ or 🧩 Challenges/Web/ for detailed notes and solutions.
-- Run scripts from 🛠️ Scripts/ to automate tasks or replicate lab setups.
-- Check 📚 Resources/ for tools, guides, or references to boost your learning.
-
 ## This repository emphasizes a holistic approach to cybersecurity:
 - Skill Development: Learn secure system configuration, network analysis, and vulnerability mitigation. 🛡️
 - Creative Problem-Solving: Tackle challenges with critical thinking and innovative techniques. 🧠
@@ -37,7 +30,7 @@ The repository is organized into intuitive categories, each with a specific focu
 
 Let’s connect for feedback, ideas, or collaboration:
 
-🐙 GitHub: yourusername
+🐙 GitHub: Betsy-Wabuke
 
 🏆 HTB Profile: [Your HTB Profile Link]
 
