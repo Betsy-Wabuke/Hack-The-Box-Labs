@@ -10,7 +10,7 @@ This repository serves as a personal knowledge hub for my work on Hack The Box, 
 ## Repository Structure
 The repository is organized into intuitive categories, each with a specific focus:
 
-🧩 Challenges: Solutions for HTB challenges (e.g., Web, Crypto, Forensics), showcasing creative problem-solving.
+🧩 Challenges: Solutions for HTB challenges showcasing creative problem-solving.
 
 📖 Academy: Summaries and insights from HTB Academy modules on foundational and advanced cybersecurity topics.
 
