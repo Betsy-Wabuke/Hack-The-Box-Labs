@@ -10,36 +10,15 @@ This repository serves as a personal knowledge hub for my work on Hack The Box, 
 ## Repository Structure
 The repository is organized into intuitive categories, each with a specific focus:
 
-🖥️ Machines: Write-ups for HTB active and retired machines, detailing enumeration, exploitation, and system hardening.
-
 🧩 Challenges: Solutions for HTB challenges (e.g., Web, Crypto, Forensics), showcasing creative problem-solving.
 
 📖 Academy: Summaries and insights from HTB Academy modules on foundational and advanced cybersecurity topics.
 
-🛠️ Scripts: Custom tools and scripts for automating tasks or solving labs.
-
-📚 Resources: Curated references, cheat sheets, and tools for learning and collaboration.
 
 ## Directory Layout
 
-- [Machines](./Machines/Active/walkthrough.md)
-
-├── 🖥️ Machines/
-│   ├── Active/
-│   ├── Retired/
-├── 🧩 Challenges/
-│   ├── Web/
-│   ├── Crypto/
-│   ├── Pwn/
-│   ├── Reverse/
-│   ├── Forensics/
-├── 📖 Academy/
-│   ├── Networking/
-│   ├── Web_Security/
-│   ├── System_Security/
-├── 🛠️ Scripts/
-├── 📚 Resources/
-└── 📝 README.md
+- [Academy](./Academy/Intro/walkthrough.md)
+- [Challenges](./Challenges/Pwn/walkthrough.md)
 
 ## How to Use
 
@@ -48,9 +27,7 @@ The repository is organized into intuitive categories, each with a specific focu
 - Run scripts from 🛠️ Scripts/ to automate tasks or replicate lab setups.
 - Check 📚 Resources/ for tools, guides, or references to boost your learning.
 
-## Why It’s More Than Hacking
-
-This repository emphasizes a holistic approach to cybersecurity:
+## This repository emphasizes a holistic approach to cybersecurity:
 - Skill Development: Learn secure system configuration, network analysis, and vulnerability mitigation. 🛡️
 - Creative Problem-Solving: Tackle challenges with critical thinking and innovative techniques. 🧠
 - Collaboration: Share knowledge and invite community contributions to improve solutions. 🤝
