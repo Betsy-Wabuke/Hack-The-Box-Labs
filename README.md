@@ -22,7 +22,7 @@ The repository is organized into intuitive categories, each with a specific focu
 
 ## Directory Layout
 
-- [Machines] (./Machines)
+- [Machines](./Machines/Active/walkthrough.md)
 
 ├── 🖥️ Machines/
 │   ├── Active/
